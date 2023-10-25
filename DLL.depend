@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698228006 source:c:\users\sidab\onedrive\documents\desktop\dll\main.cpp
+	<iostream>
+	"dll.h"
+
+1698227874 source:c:\users\sidab\onedrive\documents\desktop\dll\dll.cpp
+	"dll.h"
+	<iostream>
+
+1698224852 c:\users\sidab\onedrive\documents\desktop\dll\dll.h
+	<iostream>
+
